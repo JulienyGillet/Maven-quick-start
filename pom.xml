@@ -7,6 +7,13 @@
   <groupId>Julien.programming</groupId>
   <artifactId>Maven-quick-start</artifactId>
   <version>1.0</version>
+<dependencies>
+	<dependency>
+    <groupId>com.hynnet</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.4</version>
+</dependency>
+</dependencies>
 <properties>
 	<maven.compiler.source>1.6</maven.compiler.source>
 	<maven.compiler.target>1.6</maven.compiler.target>
