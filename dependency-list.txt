@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Maven-quick-start 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ Maven-quick-start ---
+[INFO] Julien.programming:Maven-quick-start:jar:1.0
+[INFO] \- com.hynnet:commons-lang3:jar:3.4:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.002 s
+[INFO] Finished at: 2018-05-13T01:50:19+02:00
+[INFO] Final Memory: 11M/39M
+[INFO] ------------------------------------------------------------------------
